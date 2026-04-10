@@ -21,7 +21,7 @@
 2. **安装本脚本**  
    - **方式一（推荐）**：从 [GreasyFork](https://greasyfork.org/zh-CN) 安装（发布后更新链接）  
    - **方式二（直接安装）**：点击下方链接自动弹出安装界面  
-     [![安装脚本](https://img.shields.io/badge/点击安装-脚本-green)](https://raw.githubusercontent.com/wn-2005/douyin-emoji-downloader/main/douyin-emoji.user.js)
+     [![安装脚本](https://img.shields.io/badge/安装-脚本-green)](https://raw.githubusercontent.com/wn-2005/douyin-emoji-downloader/main/douyin-emoji.user.js)
 
 3. **刷新抖音页面**  
    安装成功后，打开抖音网页版（`www.douyin.com` 或 `web.douyin.com`），进入聊天页或任意视频评论区，即可生效。
