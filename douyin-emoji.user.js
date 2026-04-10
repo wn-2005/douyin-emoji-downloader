@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         抖音聊天/评论区表情包下载助手
-// @namespace    https://github.com/wn-2005/douyin-emoji-downloader  // 建议改为自己的 GitHub 地址
+// @namespace    https://github.com/wn-2005/douyin-emoji-downloader
 // @version      1.3
 // @description  在抖音网页版聊天/视频评论区的图片上添加下载按钮，支持动图格式自动识别保存
 // @author       wn-2005
