@@ -1,17 +1,19 @@
 // ==UserScript==
 // @name         抖音聊天/评论区表情包下载助手
-// @namespace    https://github.com/你的用户名/抖音表情包下载助手  // 建议改为自己的 GitHub 地址
+// @namespace    https://github.com/wn-2005/douyin-emoji-downloader  // 建议改为自己的 GitHub 地址
 // @version      1.3
 // @description  在抖音网页版聊天/视频评论区的图片上添加下载按钮，支持动图格式自动识别保存
-// @author       YourName
+// @author       wn-2005
 // @match        https://www.douyin.com/*
 // @match        https://web.douyin.com/*
 // @exclude      https://www.douyin.com/live/*
 // @exclude      https://web.douyin.com/live/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=douyin.com
 // @license      MIT  // 声明许可证
-// @homepageURL  https://github.com/你的用户名/抖音表情包下载助手  // 项目主页
-// @supportURL   https://github.com/你的用户名/抖音表情包下载助手/issues  // 反馈地址
+// @homepageURL  https://github.com/wn-2005/douyin-emoji-downloader  // 项目主页
+// @supportURL   https://github.com/wn-2005/douyin-emoji-downloader/issues  // 反馈地址
+// @downloadURL  https://raw.githubusercontent.com/wn-2005/douyin-emoji/main/douyin-emoji.user.js
+// @updateURL    https://raw.githubusercontent.com/wn-2005/douyin-emoji/main/douyin-emoji.user.js
 // @grant        GM_download
 // @grant        GM_notification
 // @grant        GM_xmlhttpRequest
