@@ -12,8 +12,8 @@
 // @license      MIT  // 声明许可证
 // @homepageURL  https://github.com/wn-2005/douyin-emoji-downloader  // 项目主页
 // @supportURL   https://github.com/wn-2005/douyin-emoji-downloader/issues  // 反馈地址
-// @downloadURL  https://raw.githubusercontent.com/wn-2005/douyin-emoji/main/douyin-emoji.user.js
-// @updateURL    https://raw.githubusercontent.com/wn-2005/douyin-emoji/main/douyin-emoji.user.js
+// @downloadURL  https://raw.githubusercontent.com/wn-2005/douyin-emoji-downloader /main/douyin-emoji.user.js
+// @updateURL    https://raw.githubusercontent.com/wn-2005/douyin-emoji-downloader /main/douyin-emoji.user.js
 // @grant        GM_download
 // @grant        GM_notification
 // @grant        GM_xmlhttpRequest
